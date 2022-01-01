@@ -2,3 +2,4 @@
 *.zip
 *.csv
 VAERS_CONFIG.ini
+*.pkl
