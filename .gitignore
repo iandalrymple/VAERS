@@ -3,3 +3,4 @@
 *.csv
 VAERS_CONFIG.ini
 *.pkl
+*xlsx
