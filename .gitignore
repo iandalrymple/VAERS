@@ -5,3 +5,4 @@ VAERS_CONFIG.ini
 *.pkl
 *xlsx
 RAW_DATA/KEYS.txt
+KEYS.txt
